@@ -1,5 +1,3 @@
-In this practical work was implemented particle filter-based single object tracking approach based on the "color-based probabilistic tracking".
-
 # Practical Work
 
 Practical work conducted in the 3D Vision and Video course during the academic year 2022/2023 at Télécom Paris, focusing on Particle Filter based on the color-based probabilistic tracking.
